@@ -1,2 +1,8 @@
-x= 1 + 2
-print(x)
+name = input("Please enter your name: ")
+print(f"\nHello, {name}!")
+age = input("How old are you? ")
+if age<18:
+     print(“Young”)
+           
+       
+      
